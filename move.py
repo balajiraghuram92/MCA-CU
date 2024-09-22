@@ -31,7 +31,7 @@ def move_and_overwrite(src_folder, dest_folder):
     print(f"All contents moved from '{src_folder}' to '{dest_folder}'.")
 
 # Example usage
-src_folder = '/home/root-php/MCA-CU/PHP'
-dest_folder = '/var/www/html'
+src_folder = '/home/ramu/Desktop/Github/MCA-CU/PHP'
+dest_folder = '/var/www/cgi-bin'
 move_and_overwrite(src_folder, dest_folder)
 
